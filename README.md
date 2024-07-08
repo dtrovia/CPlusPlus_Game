@@ -10,7 +10,7 @@ Inheritance and Polymorphism: Hierarchical organization of classes based on the 
 This implementation combines knowledge from lectures and best programming practices to create efficient and well-structured code.
 
 
-ΠΑΙΧΝΙΔΙ ΠΛΑΤΦΟΡΜΑΣ ΣΕ C++
+# ΠΑΙΧΝΙΔΙ ΠΛΑΤΦΟΡΜΑΣ ΣΕ C++
 
 Αυτή η εργασία περιλαμβάνει την υλοποίηση ενός απλού παιχνιδιού πλατφόρμας χρησιμοποιώντας τη βιβλιοθήκη Simple Graphics Library (SGG). Στο παιχνίδι, ο παίκτης ελέγχει έναν χαρακτήρα που πλοηγείται μέσα σε μια πίστα προσπαθόντας να επιβιώσει, αποφεύγοντας ή εξολοθρεύοντας εχθρούς. Το παιχνίδι ξεκινάει με μία αρχική οθόνη, όπου ο παίκτης πατάει το Enter για να ξεκινήσει και τελειώνει με μία τελική οθόνη που παρουσιάζει πόσο χρονικό διάστημα διήρκησε το παιχνίδι και πόσους εχθρούς εξολόθρευσε ο παίκτης.
 
